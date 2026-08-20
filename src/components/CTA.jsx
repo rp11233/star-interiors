@@ -102,7 +102,7 @@ export default function CTA() {
             }}
           >
             <a
-  href="https://wa.me/917020720974?text=Hello%20Starinteriors,%20I%20would%20like%20to%20discuss%20a%20project."
+  href="https://wa.me/917020720974?text=Hello%20Star%20interiors,%20I%20would%20like%20to%20discuss%20a%20project."
   target="_blank"
   rel="noopener noreferrer"
   className="group inline-flex h-12 max-w-full items-center justify-center gap-3 rounded-[2px] bg-[#2D2D2A] px-6 text-[9px] font-medium uppercase tracking-[0.2em] text-white transition-all duration-300 hover:px-7 sm:h-13 sm:px-8 sm:text-[10px]"

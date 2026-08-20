@@ -70,7 +70,7 @@ export default function Hero() {
               START YOUR PROJECT
           ========================== */}
           <motion.a
-            href="https://wa.me/917020720974?text=Hello%20Starinteriors%2C%20I%20am%20interested%20in%20your%20interior%20design%20services."
+            href="https://wa.me/917020720974?text=Hello%20Star%20interiors%2C%20I%20am%20interested%20in%20your%20interior%20design%20services."
             target="_blank"
             rel="noopener noreferrer"
             className="hero-cta group"
