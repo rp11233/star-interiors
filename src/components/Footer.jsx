@@ -32,7 +32,7 @@ const socials = [
   },
   {
     icon: MessageCircle,
-    href: "https://wa.me/917020720974?text=Hello%20Starinteriors%2C%20I%20would%20like%20to%20discuss%20a%20project.",
+    href: "https://wa.me/917020720974?text=Hello%20Star%20interiors%2C%20I%20would%20like%20to%20discuss%20a%20project.",
     label: "WhatsApp",
   },
 ];
