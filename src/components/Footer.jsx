@@ -21,9 +21,9 @@ const navLinks = [
 
 const socials = [
   {
-    icon: Instagram,
-    href: "https://www.instagram.com/akash_bagwe_007?igsh=cWpqd3YzejZrYXNr",
-    label: "Instagram",
+    icon: MessageCircle,
+    href: "https://wa.me/917020720974?text=Hello%20Star%20Interiors%2C%20I%20would%20like%20to%20discuss%20a%20project.",
+    label: "WhatsApp",
   },
   {
     icon: Facebook,
@@ -31,9 +31,9 @@ const socials = [
     label: "Facebook",
   },
   {
-    icon: MessageCircle,
-    href: "https://wa.me/917020720974?text=Hello%20Star%20interiors%2C%20I%20would%20like%20to%20discuss%20a%20project.",
-    label: "WhatsApp",
+    icon: Instagram,
+    href: "https://www.instagram.com/akash_bagwe_007?igsh=cWpqd3YzejZrYXNr",
+    label: "Instagram",
   },
 ];
 
