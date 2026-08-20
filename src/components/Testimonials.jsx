@@ -9,7 +9,7 @@ const testimonials = [
   {
   quote:
     "They understood exactly how we wanted our 3BHK to feel and turned every room into a comfortable, beautiful space. The entire process was smooth from start to finish.",
-  name: "Sejal Bagwe",
+  name: "Sumedh Shelke",
   title: "Residential 3BHK",
   company: "Thane (Mumbai)",
 },
