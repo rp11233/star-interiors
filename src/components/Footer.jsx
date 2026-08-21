@@ -126,7 +126,7 @@ export default function Footer() {
               </span>
 
               <span className="mt-2 block text-[0.85rem] leading-[1.5] text-[#1A1A1A]">
-                14, Dhagirathi Darshan,
+                14, Bhagirathi Darshan,
                 <br />
                 Golewadi, Badlapur (E) 421503
               </span>
