@@ -1,4 +1,3 @@
-import React from "react";
 import { motion } from "framer-motion";
 import useReveal from "../hooks/useReveal";
 import {
@@ -15,7 +14,7 @@ const easeOut = [0.16, 1, 0.3, 1];
 const features = [
   {
     icon: PencilRuler,
-    title: "Space Planning, Designing & Consultaion",
+    title: "Space Planning, Designing & Consultation",
     body: "Thoughtful space planning and personalized design consultations that turn your ideas into functional, beautiful spaces tailored to your lifestyle and needs.",
   },
   {
